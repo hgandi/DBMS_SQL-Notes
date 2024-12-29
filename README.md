@@ -1,6 +1,7 @@
 # DBMS_SQL-Notes
 DBMS_SQL Notes
-
+#changes
+x = 4
 - GitHub Repo : https://github.com/riti2409/DBMS_SQL-Notes
 
 - PDF(of notes): https://drive.google.com/file/d/1XGU4dusm9IV2DzBnuKhrrM_o7hUIt7NT/view?usp=sharing
